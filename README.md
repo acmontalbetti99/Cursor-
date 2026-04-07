@@ -1,4 +1,4 @@
-# Cursor-
+# Cursor-100Hires
 
 Setup and workspace notes for this repository.
 
