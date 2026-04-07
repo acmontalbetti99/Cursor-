@@ -7,9 +7,8 @@ Setup and workspace notes for this repository.
 No project-specific tooling has been installed in this repo yet. There is no application source code, dependency manifest (`package.json`, `requirements.txt`, etc.), or local toolchain configuration checked in.
 
 - **Git** is in use (this folder is a Git repository with `origin` pointing at GitHub).
-- **Editor**: Work is done in **Cursor**. Editor-side extensions do not add files to the repo by themselves, but they are part of your local setup:
-  - **Claude Code** extension — installed for AI-assisted coding in the editor.
-  - **Codex** extension — installed (e.g. OpenAI Codex integration in Cursor/VS Code).
+- **Editor**: Work is done in **Cursor**. 
+
 
 When you add a stack (Node, Python, Rust, etc.), record installs here (package manager commands, version pins, optional global tools).
 
